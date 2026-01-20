@@ -1,4 +1,4 @@
-# Carbon Conscious Quantifier 🌱
+# Carbon Conscious Quantifier
 
 An intelligent web application that calculates an individual's carbon footprint based on their daily activities, provides visual dashboard insights, and offers personalized suggestions to reduce environmental impact.
 
@@ -113,12 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Application**: [https://ritik-major.vercel.app/](https://ritik-major.vercel.app/)
-- **GitHub Repository**: [Add your GitHub repo link here]
+- **GitHub Repository**: [https://github.com/patelritiq/carbon-conscious-quantifier]
 
 ---
 
 *Making sustainability simple, one calculation at a time.* 🌱
-
-## 📞 Support
-
-For support or questions about the application, please create an issue in this repository or contact the author.
