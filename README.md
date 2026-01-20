@@ -61,7 +61,7 @@ The Carbon Conscious Quantifier helps users understand and reduce their environm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carbon-conscious-quantifier.git
+   git clone https://github.com/patelritiq/carbon-conscious-quantifier.git
    cd carbon-conscious-quantifier
    ```
 
@@ -118,4 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Making sustainability simple, one calculation at a time.* 🌱
+
 
