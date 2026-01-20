@@ -113,8 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Application**: [https://ritik-major.vercel.app/](https://ritik-major.vercel.app/)
-- **GitHub Repository**: [https://github.com/patelritiq/carbon-conscious-quantifier]
+- **GitHub Repository**: https://github.com/patelritiq/carbon-conscious-quantifier
 
 ---
 
 *Making sustainability simple, one calculation at a time.* 🌱
+
